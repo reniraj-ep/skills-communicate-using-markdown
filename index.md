@@ -1,6 +1,8 @@
-# Testing Adding Image in markup
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
+# Testing code block in markup
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 
 
 
