@@ -1,5 +1,5 @@
-# Testing headers in markup
-
+# Testing Adding Image in markup
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
